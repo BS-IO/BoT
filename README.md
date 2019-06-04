@@ -1,23 +1,31 @@
-# Credential Based Identity
-*By:* Digital Lab
+# Credential Based Digital Identity
+By: *Digital Lab*
 
-*Last update:* 04.06.2019
+Last update: *04.06.2019*
 
-*Status:* **under exploration** 
+Status: **under exploration** 
 
-
-===
-
-## Section 1
 
 ===
 
-## Section 2
+## What is Credential Based Identity?
+
+===
+
+## Why is Credential Based Identity important?
 
 ---
 
-## Section 2.1?
+## Reason 1
 
 ---
 
-## Section 2.2
+## Reason 2
+
+===
+
+## Trends in Credential Based Identity 
+
+===
+
+## Additional
