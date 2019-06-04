@@ -6,6 +6,8 @@
 
 **Status:** `under exploration` 
 
+[Back to table of contents](demo.html)
+
 ------
 
 ## What is Credential Based Identity?
