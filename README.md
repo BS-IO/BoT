@@ -32,4 +32,6 @@
 
 View the resources below for additional information
 
+---
+
 <section data-background-iframe="https://player.vimeo.com/video/305420834?autoplay=1&title=0&byline=0" data-background-interactive></section>
