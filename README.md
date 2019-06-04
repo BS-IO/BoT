@@ -30,4 +30,5 @@
 
 ## Additional information
 
-<section data-background-video="https://player.vimeo.com/video/305420834" data-background-video-loop></section>
+<section data-background-video="https://player.vimeo.com/video/305420834?autoplay=1&title=0&byline=0" data-background-video-loop>
+</section>
