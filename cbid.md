@@ -6,7 +6,7 @@
 
 **Status:** `under exploration` 
 
-[Back to table of contents](demo.html)
+[table of contents](demo.html)
 
 ------
 
