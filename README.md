@@ -1,7 +1,7 @@
 # Credential Based Identity
-*By:* Digital Lab \n\n
-*Last update:* 04.06.2019 \n\n
-*Status:* **under exploration** \n\n
+*By:* Digital Lab <br />
+*Last update:* 04.06.2019 <br />
+*Status:* **under exploration** <br />
 
 
 ===
