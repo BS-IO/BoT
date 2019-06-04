@@ -30,7 +30,6 @@
 
 ## Additional information
 
-<section>
-  <iframe src="https://player.vimeo.com/video/305420834?autoplay=1&title=0&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-  
+<section data-background-iframe="https://player.vimeo.com/video/305420834?autoplay=1&title=0&byline=0" data-background-interactive>
+ 
 </section>
