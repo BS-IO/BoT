@@ -30,5 +30,4 @@
 
 ## Additional information
 
-<section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm" data-background-video-loop data-background-video-muted>
-</section>
+<section data-background-video="https://player.vimeo.com/video/305420834" data-background-video-loop></section>
